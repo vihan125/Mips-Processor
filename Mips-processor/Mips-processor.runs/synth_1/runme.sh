@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/Vihan/Documents/GitHub/Coin-type-Detector/coin_detector_FSM/Mips-processor/Mips-processor.runs/synth_1'
+HD_PWD='C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

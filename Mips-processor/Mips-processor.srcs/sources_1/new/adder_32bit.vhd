@@ -34,8 +34,7 @@ use IEEE.STD_LOGIC_1164.ALL;
 entity adder_32bit is
   Port (
     A : in std_logic_vector (31 downto 0);
-    B : in std_logic_vector (31 downto 0);
-    C_in : in std_logic;
+    B : in std_logic_vector (31 downto 0) ;
     S : out std_logic_vector (31 downto 0);
     C_out : out std_logic
    );
@@ -59,7 +58,7 @@ begin
     A0:adder port map (
         a => A(0),
         b => B(0),
-        c_in => C_in,
+        c_in => '0',
         s => S(0),
         c_out => c(1)
     );
