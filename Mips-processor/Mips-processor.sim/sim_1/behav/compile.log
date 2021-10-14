@@ -1,6 +1,6 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/adder.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity adder
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/adder_32bit.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity adder_32bit
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sim_1/new/adder32bit_TB.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity adder32bit_TB
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/mux_2to1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux_2to1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/MUX_busB_ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX_busB_ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sim_1/new/MUX_busB_ALU_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX_busB_ALU_TB

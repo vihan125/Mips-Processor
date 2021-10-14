@@ -52,7 +52,7 @@ architecture Behavioral of addORsub is
         a : in std_logic;
         b : in std_logic;
         sel : in std_logic;
-        o : out std_logic
+        output : out std_logic
     );
     end component;
     
@@ -61,7 +61,7 @@ architecture Behavioral of addORsub is
         a : in std_logic;
         b : in std_logic;
         c_in : in std_logic;
-        o : out std_logic;
+        s : out std_logic;
         c_out : out std_logic
     );
     end component;
@@ -70,18 +70,18 @@ begin
     
     not_b <= not B;
     
-    mux0:mux_2to1 port map (
+    MUX0:mux_2to1 port map (
         a => B,
         b => not_b,
         sel => sel,
-        o => mux_result
+        output => mux_result
     );
     
     A0:adder port map(
         a => A,
         b => mux_result,
         c_in => c_in,
-        o => output,
+        s => output,
         c_out => c_out
     );
 

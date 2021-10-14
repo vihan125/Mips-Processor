@@ -91,7 +91,7 @@ architecture Behavioral of ALU_32bit is
          a : in std_logic;
          b : in std_logic;
          sel : in std_logic;
-         o : out std_logic
+         output : out std_logic
      );
      end component; 
      
@@ -125,7 +125,7 @@ begin
             a => carry_out(31),
             b => not_carry,
             sel => ALU_C(1),
-            o => c_out
+            output => c_out
         );
         
     overflow <= carry_out(30) xor carry_out(31);

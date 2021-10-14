@@ -65,7 +65,7 @@ architecture Behavioral of alu_1bit is
         a : in std_logic;
         b : in std_logic;
         sel : in std_logic;
-        o : out std_logic
+        output : out std_logic
     );
     end component; 
      
@@ -86,14 +86,14 @@ begin
         a => AB_xor,
         b => less,
         sel => ALU_control(1),
-        o => xor_lessOut
+        output => xor_lessOut
     );
     
     MUX1:mux_2to1 port map (
         a => addsub_out,
         b => xor_lessOut,
         sel => ALU_control(0),
-        o => result
+        output => result
     );
 
 end Behavioral;
