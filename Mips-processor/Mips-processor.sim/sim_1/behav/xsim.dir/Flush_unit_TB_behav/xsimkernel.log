@@ -1,7 +1,0 @@
-Running: xsim.dir/Flush_unit_TB_behav/xsimk.exe -simmode gui -wdb Flush_unit_TB_behav.wdb -simrunnum 0 -socket 58985
-Design successfully loaded
-Design Loading Memory Usage: 9356 KB (Peak: 9356 KB)
-Design Loading CPU Usage: 62 ms
-Simulation completed
-Simulation Memory Usage: 9988 KB (Peak: 9988 KB)
-Simulation CPU Usage: 62 ms
