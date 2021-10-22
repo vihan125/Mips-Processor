@@ -2,5 +2,7 @@
 2016.3
 Oct 10 2016
 19:46:48
-C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sim_1/new/Discard_Inst_TB.vhd,1634896577,vhdl,,,,discard_inst_tb,,,,,,,,
-C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/Discard_Inst.vhd,1634844609,vhdl,,,,discard_inst,,,,,,,,
+C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sim_1/new/Forwarding_Mux_TB.vhd,1634899303,vhdl,,,,forwarding_mux_tb,,,,,,,,
+C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/Forwarding_MUX.vhd,1634898628,vhdl,,,,forwarding_mux,,,,,,,,
+C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/MUX_busB_ALU.vhd,1634221217,vhdl,,,,mux_busb_alu,,,,,,,,
+C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/mux_2to1.vhd,1633791187,vhdl,,,,mux_2to1,,,,,,,,

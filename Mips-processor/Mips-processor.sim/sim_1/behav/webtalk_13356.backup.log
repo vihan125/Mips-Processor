@@ -2,12 +2,12 @@
 # Webtalk v2016.3 (64-bit)
 # SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
 # IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
-# Start of session at: Fri Oct 22 15:26:31 2021
-# Process ID: 7560
+# Start of session at: Fri Oct 22 16:13:03 2021
+# Process ID: 13356
 # Current directory: C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.sim/sim_1/behav
-# Command line: wbtcv.exe -mode batch -source C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.sim/sim_1/behav/xsim.dir/Discard_Inst_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+# Command line: wbtcv.exe -mode batch -source C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.sim/sim_1/behav/xsim.dir/Forwarding_Mux_TB_behav/webtalk/xsim_webtalk.tcl -notrace
 # Log file: C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.sim/sim_1/behav/webtalk.log
 # Journal file: C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.sim/sim_1/behav\webtalk.jou
 #-----------------------------------------------------------
-source C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.sim/sim_1/behav/xsim.dir/Discard_Inst_TB_behav/webtalk/xsim_webtalk.tcl -notrace
-INFO: [Common 17-206] Exiting Webtalk at Fri Oct 22 15:26:32 2021...
+source C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.sim/sim_1/behav/xsim.dir/Forwarding_Mux_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Fri Oct 22 16:13:04 2021...

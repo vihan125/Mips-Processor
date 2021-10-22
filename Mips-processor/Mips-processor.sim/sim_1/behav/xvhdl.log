@@ -1,4 +1,8 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/Discard_Inst.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity Discard_Inst
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sim_1/new/Discard_Inst_TB.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity Discard_Inst_TB
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/mux_2to1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux_2to1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/MUX_busB_ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX_busB_ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/Forwarding_MUX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Forwarding_MUX
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sim_1/new/Forwarding_Mux_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Forwarding_Mux_TB
