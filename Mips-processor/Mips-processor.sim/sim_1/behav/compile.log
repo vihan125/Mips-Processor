@@ -1,4 +1,4 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/JR_control_unit.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity JR_control_unit
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sim_1/new/JR_control_unit_TB.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity JR_control_unit_TB
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/FlushControl_unit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FlushControl_unit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sim_1/new/Flush_unit_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Flush_unit_TB
