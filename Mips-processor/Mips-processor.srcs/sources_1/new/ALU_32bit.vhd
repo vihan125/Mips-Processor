@@ -108,7 +108,7 @@ begin
     );
     
     G_1: for i in 1 to 31 generate
-        ALU0:alu_1bit port map (
+        ALU_CELL:alu_1bit port map (
             a => A(i),
             b => B(i),
             c_in => carry_out(i-1),
