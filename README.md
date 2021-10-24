@@ -1,2 +1,2 @@
-# Mips-Processor
-Mips processor = module project
+# MIPS_32bit_Processor
+ 

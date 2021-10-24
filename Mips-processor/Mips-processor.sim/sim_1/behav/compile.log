@@ -1,6 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/mux_2to1.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity mux_2to1
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sources_1/new/mux_2x5to5.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity mux_2x5to5
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Vihan/Documents/GitHub/Mips-Processor/Mips-processor/Mips-processor.srcs/sim_1/new/mux_2x5to5_TB.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity mux_2x5to5_TB
