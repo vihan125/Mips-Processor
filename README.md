@@ -48,8 +48,11 @@ Following figure shows the explanation of the above set of instructions and the 
 Results of the timing analysis for the above set of instructions obtained from the Vivado is as follows,
 
 <p align="center">
-  <image src = https://github.com/vihan125/Mips-Processor/blob/main/Images/Result.png width="100%" height="100%">
+  <image src = https://github.com/vihan125/Mips-Processor/blob/main/Images/Result.PNG  width="100%" height="100%">
 </p>
+
+### If yoy are interested in the project, for more explanantions about indivial components and their implementations please refer the following document,
+Link : https://github.com/vihan125/Mips-Processor/blob/main/Report/MIPS_project_Submission_report.pdf 
 
   
  
