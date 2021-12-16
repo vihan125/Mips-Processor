@@ -21,5 +21,9 @@ Therefore handling these hazards in a pipelined processor is important to get ef
 correct results. In this project we are implementing a pipelined MIPS with pipelined
 architecture. The processor architecture of the processor in shown below,
 
+<p align="center">
+  <image src = https://github.com/vihan125/Mips-Processor/blob/main/Images/architecture.png width="50%" height="50%">
+</p>
+
 
  
