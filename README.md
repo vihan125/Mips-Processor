@@ -13,5 +13,8 @@ being executed, the computer is decoding the next and while decoding other instr
 write to the registers.
 But in pipelined processors due to small dependencies that exist between them pipeline
 hazards can occur. Namely there are three main types of hazards as,
+* Data Hazards
+* Structural Hazards
+* Cpntrol Hazards
 
  
