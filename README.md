@@ -25,7 +25,7 @@ architecture.
 The processor architecture of the processor in shown below,
 
 <p align="center">
-  <image src = https://github.com/vihan125/Mips-Processor/blob/main/Images/Architecture.png width="50%" height="50%">
+  <image src = https://github.com/vihan125/Mips-Processor/blob/main/Images/Architecture.png width="100%" height="100%">
 </p>
 
 ## Results
@@ -33,6 +33,19 @@ The processor architecture of the processor in shown below,
 The instruction set that we are going to perform in the processor is as follows. It has chosen
 to cover all the XORI, SW, LW, SLT, J, JR, SUB, ADD operations implemented in the
 processor.
+
+<p align="center">
+  <image src = https://github.com/vihan125/Mips-Processor/blob/main/Images/IS.PNG width="100%" height="100%">
+</p>
+  
+Lets analyze these instructions with a more broder view considering the registers and memory locations involved.
+Following figure shows the explanation of the above set of instructions and the flow of them.
+
+<p align="center">
+  <image src = https://github.com/vihan125/Mips-Processor/blob/main/Images/Instructions.png width="100%" height="100%">
+</p>
+  
+
   
  
 
