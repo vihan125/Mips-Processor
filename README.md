@@ -17,4 +17,9 @@ hazards can occur. Namely there are three main types of hazards as,
 * Structural Hazards
 * Cpntrol Hazards
 
+Therefore handling these hazards in a pipelined processor is important to get efficient and
+correct results. In this project we are implementing a pipelined MIPS with pipelined
+architecture. The processor architecture of the processor in shown below,
+
+
  
