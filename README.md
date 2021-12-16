@@ -19,11 +19,23 @@ hazards can occur. Namely there are three main types of hazards as,
 
 Therefore handling these hazards in a pipelined processor is important to get efficient and
 correct results. In this project we are implementing a pipelined MIPS with pipelined
-architecture. The processor architecture of the processor in shown below,
+architecture. 
+
+## Architecture
+The processor architecture of the processor in shown below,
 
 <p align="center">
-  <image src = https://github.com/vihan125/Mips-Processor/blob/main/Images/architecture.png width="50%" height="50%">
+  <image src = https://github.com/vihan125/Mips-Processor/blob/main/Images/Architecture.png width="50%" height="50%">
 </p>
+
+## Results
+  
+The instruction set that we are going to perform in the processor is as follows. It has chosen
+to cover all the XORI, SW, LW, SLT, J, JR, SUB, ADD operations implemented in the
+processor.
+  
+ 
+
 
 
  
